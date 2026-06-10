@@ -1,0 +1,15 @@
+{
+    "modules": {
+        "eeg": {
+            "defaultMontages": {
+                "default:10-20": [
+                    ["rec", "As recorded"],
+                    ["avg", "Average reference"],
+                    ["lon", "Double banana"],
+                    ["trv", "Transverse"],
+                    ["fieke", "Fieke"]
+                ]
+            }
+        }
+    }
+}
